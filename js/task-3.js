@@ -1,4 +1,7 @@
-
+const profile = {
+    username: "Jacob",
+  playTime: 300,
+};
 
 
 console.log(profile.getInfo()); // "Jacob has 300 active hours!"
